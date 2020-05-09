@@ -6,7 +6,7 @@ Danfeng Hong, Naoto Yokoya, Xiaoxiang Zhu
 The code in this toolbox implements the ["Learning a Robust Local Manifold Representation for Hyperspectral Dimensionality Reduction"](https://ieeexplore.ieee.org/document/7985008).
 More specifically, it is detailed as follow.
 
-![alt text](./FIFs.png)
+![alt text](./figure.png)
 
 Citation
 ---------------------
