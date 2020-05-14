@@ -14,14 +14,14 @@ Citation
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
      @article{hong2017learning,
-      title={Learning a robust local manifold representation for hyperspectral dimensionality reduction},
-      author={D. Hong and N. Yokoya and X. Zhu},
-      journal={IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.},
-      volume={10},
-      number={6},
-      pages={2960--2975},
-      year={2017},
-      publisher={IEEE}
+      title     = {Learning a robust local manifold representation for hyperspectral dimensionality reduction},
+      author    = {D. Hong and N. Yokoya and X. Zhu},
+      journal   = {IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.},
+      volume    = {10},
+      number    = {6},
+      pages     = {2960--2975},
+      year      = {2017},
+      publisher = {IEEE}
      }
 
 
