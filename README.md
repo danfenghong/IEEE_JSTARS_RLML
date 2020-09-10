@@ -13,6 +13,8 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
+Danfeng Hong, Naoto Yokoya, Xiao Xiang Zhu. Learning a Robust Local Manifold Representation for Hyperspectral Dimensionality Reduction, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2017, 10(6): 2960-2975. 
+
      @article{hong2017learning,
       title     = {Learning a robust local manifold representation for hyperspectral dimensionality reduction},
       author    = {D. Hong and N. Yokoya and X. Zhu},
